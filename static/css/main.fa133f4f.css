@@ -141,9 +141,9 @@ code{
 
 .Header_socialLink__8PKl7:hover{
   opacity:1
-}.
+}
 
-Content_content__2Jfrw{
+.Content_content__2Jfrw{
   grid-column-gap:50px;
   display:grid;
   grid-template-areas:"aboutme skills" "portfolio learnfuture";
